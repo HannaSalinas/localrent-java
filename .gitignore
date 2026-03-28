@@ -1,0 +1,19 @@
+# Clases compiladas - no subir a GitHub
+out/
+*.class
+
+# Archivos temporales de Java
+*.jar
+
+# Archivos internos de IDEs
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+sources.txt
