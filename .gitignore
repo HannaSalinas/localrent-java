@@ -1,5 +1,6 @@
 # Clases compiladas - no subir a GitHub
 out/
+target/
 *.class
 
 # Archivos temporales de Java
