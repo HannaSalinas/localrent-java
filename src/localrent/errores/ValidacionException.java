@@ -9,6 +9,8 @@ package localrent.errores;
  */
 public class ValidacionException extends Exception {
 
+    private static final long serialVersionUID = 1L;
+
     /**
      * Crea una nueva excepción de validación con un mensaje descriptivo.
      *
